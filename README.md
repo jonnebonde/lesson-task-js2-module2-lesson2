@@ -2,13 +2,11 @@
 
 ## Lesson Task 1 Question
 
-### Question 1
-
 **Level 1**
 
-Based on the below array of people, create a reusable function that will remove any person based on a user's ID.
+Based on the below array of users, create a reusable function that will remove any user matching the ID that function gets passed.
 
-The function should accept an argument for the id, filter out any matches and return the updated array.
+The function should accept one argument for the id, filter out any matches and return the updated array.
 
 ```js
 let users = [
