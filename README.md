@@ -1,6 +1,6 @@
 # JavaScript 2 - Module 2
 
-## Lesson Task 1 Question
+## Lesson Task 2 Question
 
 **Level 1**
 
